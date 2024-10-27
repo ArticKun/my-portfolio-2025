@@ -60,7 +60,7 @@ export const projects = [
         title:'proyecto 6',
         description:'Portafolio Personal - React, Css, Tailwind, Framer Motion ',
         links: {
-            site: 'https://personal-portfolio-fabian.netlify.app/',
+            site: 'https://github.com/ArticKun/my-portfolio-2025',
             github:'https://github.com/ArticKun?tab=repositories',
         }
     },
